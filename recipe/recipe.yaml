@@ -55,7 +55,7 @@ about:
   license: MIT
   license_file:
     - LICENSE
-    - LICENSE.BSL
+    - LICENSE-MIT
     - LICENSING.md
     - ThirdPartyLicenses.txt
   summary: One-shot installer that wires the caveman Claude Code skill into ~30 AI coding agents
