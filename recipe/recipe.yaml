@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "4.1.0"
+  version: "4.2.0"
 
 package:
   # Upstream npm `name` is `caveman-installer`; both `caveman` slots (PyPI + npm)
@@ -13,7 +13,7 @@ package:
 
 source:
   url: https://github.com/JuliusBrussee/caveman/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: f0e69649ed920d5e98cc4decf7f3943f9bc3926384cfa5426872447cc0a5fb42
+  sha256: b5af84b2422daa12a557003b5251547366fd88215e45a1701e0c84f350764776
 
 build:
   number: 0
